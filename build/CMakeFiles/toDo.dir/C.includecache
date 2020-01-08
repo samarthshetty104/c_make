@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samarth Shetty/Desktop/make-pro/rev.c
+stdio.h
+-
+
+C:/Users/Samarth Shetty/Desktop/make-pro/rev.h
+
+C:/Users/Samarth Shetty/Desktop/make-pro/rev1.c
+stdio.h
+-
+rev.h
+C:/Users/Samarth Shetty/Desktop/make-pro/rev.h
+
