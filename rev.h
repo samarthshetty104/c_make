@@ -7,4 +7,4 @@
 
 
 char* reverse(char a[]);
-int sum (int,int);
+int sum (int,
